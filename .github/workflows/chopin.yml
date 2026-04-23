@@ -55,7 +55,6 @@ env:
 
   KERNELSU_AUTO_GET : "false"
   KERNELSU_METHOD   : "manual"
-  SUSFS_ENABLE      : true
 
   PATCHES_SOURCE: "JackA1ltman/NonGKI_Kernel_Patches"
   PATCHES_BRANCH: "mi_kernel"
