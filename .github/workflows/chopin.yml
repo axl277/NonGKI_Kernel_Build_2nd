@@ -53,7 +53,9 @@ env:
   PACK_METHOD: "Anykernel3"
   PACK_KMODULES: "false"
 
-  KERNELSU_METHOD: "manual"
+  KERNELSU_AUTO_GET : "false"
+  KERNELSU_METHOD   : "manual"
+  SUSFS_ENABLE      : true
 
   PATCHES_SOURCE: "JackA1ltman/NonGKI_Kernel_Patches"
   PATCHES_BRANCH: "mi_kernel"
