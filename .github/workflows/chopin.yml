@@ -13,7 +13,7 @@ env:
   EXTRA_CMDS : "LLVM=1 LLVM_IAS=1"
 
   KERNEL_SOURCE : "https://github.com/axl277/kernel_xiaomi_mt6893"
-  KERNEL_BRANCH : "chopin-ksun-tes"
+  KERNEL_BRANCH : "lineage-23.2"
 
   CLANG_SOURCE : "https://raw.githubusercontent.com/Neutron-Toolchains/antman/main/antman"
   CLANG_BRANCH : ""
